@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/b83c1ed3-c5b6-44fb-b5ba-2b83a074c23f/resourceGroups/v-pajaso-ChinaCXPTeam/providers/Microsoft.Web/sites/wkhtmltopdftest",
+    "appService.deploySubpath": "."
+}
